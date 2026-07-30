@@ -1,0 +1,4 @@
+# Slave Node Configuration
+LISTEN_IP=0.0.0.0
+PORT=8080
+DB_FILE=slave2.db
