@@ -1,0 +1,11 @@
+# Identifying this specific node
+NODE_ID=slave1
+DB_FILE=slave1.db
+
+# MQTT Broker (Pointing to VM 50 - Master)
+BROKER_IP=192.168.118.50
+BROKER_PORT=1883
+
+# Memcached Server (Running locally on VM 51)
+MEMCACHED_IP=127.0.0.1
+MEMCACHED_PORT=11211

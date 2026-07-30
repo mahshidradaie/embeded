@@ -1,0 +1,10 @@
+# MQTT Broker (Mosquitto running locally on VM 50)
+BROKER_IP=127.0.0.1
+BROKER_PORT=1883
+
+# Memcached Server (Running locally on VM 50)
+MEMCACHED_IP=127.0.0.1
+MEMCACHED_PORT=11211
+
+# SQLite Database File
+DB_FILE=master.db
