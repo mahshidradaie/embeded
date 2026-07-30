@@ -1,0 +1,11 @@
+# Master Node Configuration
+LISTEN_IP=0.0.0.0
+PORT=8080
+DB_FILE=master.db
+
+# Slaves Information (For routing requests)
+SLAVE1_IP=192.168.118.51
+SLAVE1_PORT=8080
+
+SLAVE2_IP=192.168.118.52
+SLAVE2_PORT=8080

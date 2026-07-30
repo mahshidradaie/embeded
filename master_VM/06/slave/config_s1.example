@@ -1,0 +1,3 @@
+# Slave Node Configuration
+PORT=8080
+DB_FILE=slave1.db
